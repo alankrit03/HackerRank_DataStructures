@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb1c16c1-6ab0-443d-b263-87d131513af1" name="Default Changelist" comment="" />
+    <list default="true" id="eb1c16c1-6ab0-443d-b263-87d131513af1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +30,53 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Problem_Solving" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyDependenciesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Castle on the Grid">
+    <configuration name="Castle on the Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Castle on the Grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Poisonous Plants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poisonous Plants.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +141,12 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Castle on the Grid" />
+        <item itemvalue="Python.Poisonous Plants" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -128,9 +179,76 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="933" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583569755597" />
-    <state x="555" y="78" key="SettingsEditor" timestamp="1583569401357">
+    <state width="1514" height="277" key="GridCell.Tab.0.bottom" timestamp="1588235124682">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="555" y="78" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583569401357" />
+    <state width="1514" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588235124682" />
+    <state width="1514" height="277" key="GridCell.Tab.0.center" timestamp="1588235124682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588235124682" />
+    <state width="1514" height="277" key="GridCell.Tab.0.left" timestamp="1588235124678">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588235124678" />
+    <state width="1514" height="277" key="GridCell.Tab.0.right" timestamp="1588235124682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588235124682" />
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1588235124682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588235124682" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1588235124682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1588235124682" />
+    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1588235124682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1588235124682" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1588235124682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1588235124682" />
+    <state x="555" y="78" key="SettingsEditor" timestamp="1585979751762">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="555" y="78" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585979751762" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1588009483108">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1588009483108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Castle on the Grid.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Castle on the Grid.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Castle on the Grid.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Castle on the Grid.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Castle on the Grid.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
