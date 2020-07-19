@@ -1,30 +1,35 @@
 # Complete the minimumMoves function below.
+
+"""THIS SOLUTOIN IS YET NOT COMPLETE."""
+
+
 def minimumMoves(grid, startX, startY, goalX, goalY):
     row = len(grid)
     col = len(grid[0])
-    ans = row*col
+    ans = row * col
 
-    def recur(i,j,steps,path):
+    def recur(i, j, steps, path):
         global ans
-        if i>=row or i<0 or j>=col or j<0 or grid[i][j]=='X':
+        if i >= row or i < 0 or j >= col or j < 0 or grid[i][j] == 'X':
             return
 
-        if i==goalX and j==goalY:
+        if i == goalX and j == goalY:
             print('here')
-            ans = min(ans,steps)
-            print(*path,sep=' -> ')
+            ans = min(ans, steps)
+            print(*path, sep=' -> ')
             return
 
-        grid[i][j]='X'
-        recur(i-1,j,steps+1,path[:]+[(i-1,j)])
-        recur(i+1,j,steps+1,path[:]+[(i+1,j)])
-        recur(i,j-1,steps+1,path[:]+[(i,j-1)])
-        recur(i,j+1,steps+1,path[:]+[(i,j+1)])
-        grid[i][j]='.'
+        grid[i][j] = 'X'
+        recur(i - 1, j, steps + 1, path[:] + [(i - 1, j)])
+        recur(i + 1, j, steps + 1, path[:] + [(i + 1, j)])
+        recur(i, j - 1, steps + 1, path[:] + [(i, j - 1)])
+        recur(i, j + 1, steps + 1, path[:] + [(i, j + 1)])
+        grid[i][j] = '.'
 
-    recur(startX,startY,0,[(startX,startY)])
+    recur(startX, startY, 0, [(startX, startY)])
 
     return ans
+
 
 if __name__ == '__main__':
 
